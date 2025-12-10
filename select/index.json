@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Mugen",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-10T14:18:09.947028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Homura (From \"Kimetsu no Yaiba The Movie: Mugen Train\")",
+      "artist": "Rainych feat. A V I A N D",
+      "has_synced": true,
+      "path": "select/01_Homura_(From__Kimetsu_no_Yaiba_The_Movie__Mugen_Train_)_Rainych_feat._A_V_I_A_N_D.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Homura (From \"Kimetsu no Yaiba The Movie: Mugen Train\")",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/02_Homura_(From__Kimetsu_no_Yaiba_The_Movie__Mugen_Train_)_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mugen Woe",
+      "artist": "Xavier Wulf",
+      "has_synced": false,
+      "path": "select/03_Mugen_Woe_Xavier_Wulf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mugen",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/04_Mugen_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/05_Mugen_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mugen Loop",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_Mugen_Loop_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mugen Loop [∞ループ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_Mugen_Loop_[∞ループ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mouretsu Uchuu Koukyoukyoku Dainana Gakushou \"Mugen No Ai\"",
+      "artist": "Momoiro Clover Z",
+      "has_synced": false,
+      "path": "select/08_Mouretsu_Uchuu_Koukyoukyoku_Dainana_Gakushou__Mugen_No_Ai_Momoiro_Clover_Z.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mouretsu Uchuu Koukyou Kyoku Dai Nana Gakushou \"Mugen no Ai\"",
+      "artist": "Momoiro Clover Z",
+      "has_synced": false,
+      "path": "select/09_Mouretsu_Uchuu_Koukyou_Kyoku_Dai_Nana_Gakushou__Mugen_no_Ai_Momoiro_Clover_Z.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mugen Glider",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_Mugen_Glider_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mugen",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/11_Mugen_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MUGEN Reverberate!",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/12_MUGEN_Reverberate!_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "mugen",
+      "artist": "Macaroom",
+      "has_synced": true,
+      "path": "select/13_mugen_Macaroom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Mugen",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_Mugen_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Mugen (Orchestra Version)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_Mugen_(Orchestra_Version)_ポルノグラフィティ.txt"
+    }
+  ]
+}
